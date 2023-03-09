@@ -8,7 +8,7 @@ This is a custom 4 port USB hub meant to be installed inside the Original Xbox a
 
 This hub can be powered by either USB from the OGX360 or by plugging a 2 pin connector into the header labeled "DC" and connecting that to a +5V/GND source inside the Xbox. The easiest source would be the Molex hard drive power connector for a completely modular and solder-free install.
 
-If all you're doing is using a single Xbox 360 wireles PC adapter, you do not need a secondary power source plugged in, but if you plan on using two powered device with the controller ports, you will want to connect the secondary +5V DC source.
+If all you're doing is using a single Xbox 360 wireles PC adapter, you do not need a secondary power source plugged in.
 
 # Support for Lightguns
 
