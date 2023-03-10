@@ -20,7 +20,7 @@ Lightguns have not been tested as I don't own any of the necessary hardware. I'v
 
 Version 1.6 Xboxes have shorter controller port wires than the other versions, they will need 2 extra wire extensions, both identical. The wiring diagram for this extension can be found in the  Cables folder.
 
-# PCB BOM
+# BOM
 | Qty | Designator | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
 | --- | --- | --- | --- | --- | --- |
 | 7 | C1,C2,C3,C4,C5,C6,C7 | CAP 10UF 16V 0805 | CL21B106KOQNNNE (Example) | https://www.digikey.com/short/7h5p2595 | https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B106KOQNNNE_C95841.html |
