@@ -1,4 +1,4 @@
-Note: Order some extra crimp contacts, you'll probably need them
+Order some extra crimp contacts, you'll probably need them
 
 # DC Power Cable (22-20 AWG)
 | Qty | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
