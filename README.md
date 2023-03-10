@@ -18,7 +18,7 @@ Lightguns have not been tested as I don't own any of the necessary hardware. I'v
 
 # Version 1.6 Xboxes
 
-Version 1.6 Xboxes have shorter controller port wires than the other versions, they will need 2 extra wire extensions, both identical. The diagram for this extension can be found in the  Cables folder.
+Version 1.6 Xboxes have shorter controller port wires than the other versions, they will need 2 extra wire extensions, both identical. The wiring diagram for this extension can be found in the  Cables folder.
 
 # PCB BOM
 | Qty | Designator | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
