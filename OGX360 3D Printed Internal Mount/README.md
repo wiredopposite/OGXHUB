@@ -1,4 +1,4 @@
-This mount makes installing the OGX360 internally very simple. Just screw the mount in with the original motherboard screws and snap the OGX360 into place.
+This mount makes installing the OGX360 internally very simple. Just screw the mount in with the original motherboard screws and snap the OGX360 into place. This is not compatible with Philips DVD drives.
 
 Thank you to TEK Nemesis for these STL files.
 
