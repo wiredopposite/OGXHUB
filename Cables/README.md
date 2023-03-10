@@ -1,6 +1,6 @@
 Order some extra crimp contacts, you'll probably need them
 
-# DC Power Cable (22-20 AWG)
+# Power Cable (22-20 AWG)
 | Qty | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
 | --- | --- | --- | --- | --- |
 | 1 | CONN RCPT HSG 2POS 2.00MM | DF3-2S-2C | https://www.digikey.com/short/4vnqmw13 | https://www.lcsc.com/product-detail/Rectangular-Connectors-Housings_HRS-Hirose-DF3-2S-2C_C506716.html |
