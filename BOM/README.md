@@ -1,4 +1,4 @@
-# PCB BOM
+# BOM
 | Qty | Designator | Description | Value/Model | URL |
 | --- | --- | --- | --- | --- |
 | 7 | C1,C2,C3,C4,C5,C6,C7 | CAP 10UF 16V 0805 | CL21B106KOQNNNE (Example) | https://www.digikey.com/short/7h5p2595 - https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21B106KOQNNNE_C95841.html |
