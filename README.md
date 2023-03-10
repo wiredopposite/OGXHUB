@@ -8,7 +8,7 @@ The Xbox motherboard plugs into an internally installed OGX360 via 2 Xbox mother
 
 # Powering the Hub
 
-The hub can be powered either via USB from the OGX360 or from a 2 pin header labeled "DC" (connected to a +5V/GND source inside the Xbox), power via the DC header is automatically enabled by plugging it in. The easiest source would be the Molex hard drive power connector for a completely modular and solder-free install.
+The hub can be powered either via USB from the OGX360 or from a 2 pin header labeled "DC" (connected to a +5V/GND source inside the Xbox), power via the DC header is automatically enabled by plugging it in. The easiest source would be the Molex hard drive power connector for a modular and solder-free install.
 
 If all you're doing is using a single Xbox 360 wireles PC adapter, you won't need a secondary power source plugged in.
 
