@@ -23,3 +23,11 @@ Order some extra crimp contacts, you'll probably need them
 | 4 | USB 2.0 Micro B Plug | 1826 (Example) | https://a.co/d/4MSuDYI | https://www.lcsc.com/product-detail/USB-Connectors_XKB-Connectivity-U251-041N-4BSG87_C780066.html |
 | 2 | CONN RCPT HSG 2POS 1.00MM | SHR-02V-S-B (Optional) | https://www.digikey.com/short/12wqpzrd | https://www.lcsc.com/product-detail/Rectangular-Connectors-Housings_JST-Sales-America-SHR-02V-S-B_C246754.html |
 | 4 | CONN SOCKET 28-32AWG CRIMP TIN | SSH-003T-P0.2 (Optional) | https://www.digikey.com/short/8tw0tbbt | https://www.lcsc.com/product-detail/Line-Pressing-Terminals_JST-Sales-America-SSH-003T-P0-2_C160231.html |
+
+# v1.6 Only - 2x Controller Port Cable Extension (28 AWG Data/CLK, 28-24 AWG +5V/GND)
+| Qty | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
+| --- | --- | --- | --- | --- |
+| 2 | CONN RCPT HSG 12POS 2.00MM | DF11-12DS-2C (or PHDR-12VS) | https://www.digikey.com/short/qr2qjhq9 | https://www.lcsc.com/product-detail/Rectangular-Connectors-Housings_JST-Sales-America-PHDR-12VS_C265391.html |
+| 20 | CONN SOCKET 24-28AWG CRIMP TIN | DF11-2428SCF | https://www.digikey.com/short/t4vtzztz | https://www.lcsc.com/product-detail/Line-Pressing-Terminals_HRS-Hirose-DF11-2428SCF_C392020.html |
+| 2 | CONN PLUG HSG 12POS 2.00MM | DF11-12DEP-2C | https://www.digikey.com/short/1q59fp8n | https://www.lcsc.com/product-detail/Rectangular-Connectors-Housings_HRS-Hirose-DF11-12DEP-2C_C506657.html |
+| 20 | CONN PIN 24-28AWG CRIMP TIN | DF11-EP2428PCF | https://www.digikey.com/short/5czwtj08 | https://www.lcsc.com/product-detail/Line-Pressing-Terminals_HRS-Hirose-DF11-EP2428PCF_C202088.html |
