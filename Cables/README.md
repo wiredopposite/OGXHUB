@@ -27,7 +27,7 @@ Order some extra crimp contacts, you'll probably need them
 | 2 | CONN RCPT HSG 2POS 1.00MM | SHR-02V-S-B (Optional) | https://www.digikey.com/short/12wqpzrd | https://www.lcsc.com/product-detail/Rectangular-Connectors-Housings_JST-Sales-America-SHR-02V-S-B_C246754.html |
 | 4 | CONN SOCKET 28-32AWG CRIMP TIN | SSH-003T-P0.2 (Optional) | https://www.digikey.com/short/8tw0tbbt | https://www.lcsc.com/product-detail/Line-Pressing-Terminals_JST-Sales-America-SSH-003T-P0-2_C160231.html |
 
-# v1.6 Only - 2x v1.6 Cable Extension 
+# 2x v1.6 Cable Extension (v1.6 Only)
 (28 AWG Data/CLK, 28-24 AWG +5V/GND)
 | Qty | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
 | --- | --- | --- | --- | --- |
