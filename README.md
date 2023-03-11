@@ -13,7 +13,7 @@ The hub can be powered either by USB from the OGX360 or via a 2 pin header label
 If all you're using is a single Xbox 360 wireless PC adapter, you won't need a secondary power source plugged in.
 
 # Mounting the hub
-The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
+The hub is meant to be mounted on the metal RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
 
 # Plugging USB devices into your controller ports
 You can do this with either an Xbox to USB cable, or with the adapter I've designed (X2USB). Gerbers for the adapter are in the [Gerbers folder](https://github.com/wiredopposite/OGXHUB/tree/main/Gerbers), BOM is [here](https://github.com/wiredopposite/OGXHUB/tree/main/BOM).
