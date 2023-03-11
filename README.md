@@ -10,13 +10,13 @@ The Xbox motherboard plugs into an internally installed OGX360 via 2 Xbox mother
 
 The hub can be powered either by USB from the OGX360 or via a 2 pin header labeled "DC" (connected to a +5V/GND source inside the Xbox), power via the DC header is automatically enabled by plugging it in. The easiest source would be the Molex hard drive power connector for a modular and solder-free install. Startech SATA adapters come with a power splitter you can plug the hub into, other adapters that don't will need a Molex power splitter.
 
-If all you're doing is using a single Xbox 360 wireles PC adapter, you won't need a secondary power source plugged in.
+If all you're using is a single Xbox 360 wireless PC adapter, you won't need a secondary power source plugged in.
 
 # Mounting the hub
 The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
 
 # Plugging USB devices into your controller ports
-You can do this with either an Xbox to USB cable, or with the adapter I've designed (X2USB). Gerbers for the adapter are in the [Gerbers folder](https://github.com/wiredopposite/OGXHUB/tree/main/Gerbers).
+You can do this with either an Xbox to USB cable, or with the adapter I've designed (X2USB). Gerbers for the adapter are in the [Gerbers folder](https://github.com/wiredopposite/OGXHUB/tree/main/Gerbers), BOM is [here](https://github.com/wiredopposite/OGXHUB/tree/main/BOM).
 
 # Support for lightguns
 
