@@ -15,7 +15,7 @@ If all you're doing is using a single Xbox 360 wireles PC adapter, you won't nee
 # Mounting the hub
 The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
 
-# Using USB devices with your controller ports
+# Plugging USB devices into your controller ports
 You can do this with either an Xbox to USB cable, or with the adapter I've designed (X2USB). Gerbers for the adapter are in the [Gerbers folder](https://github.com/wiredopposite/OGXHUB/tree/main/Gerbers).
 
 # Support for lightguns
