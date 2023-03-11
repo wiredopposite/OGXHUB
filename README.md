@@ -12,6 +12,9 @@ The hub can be powered either via USB from the OGX360 or from a 2 pin header lab
 
 If all you're doing is using a single Xbox 360 wireles PC adapter, you won't need a secondary power source plugged in.
 
+# Mounting the Hub
+The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
+
 # Support for Lightguns
 
 Lightguns have not been tested as I don't own any of the necessary hardware. I've included headers for video sync lines on the hub so to test this, the Xbox motherboard to USB Micro B cables will need an additional 2 wires connected to a 2 pin wire housing ([SHR-02V-S-B](https://www.digikey.com/short/rdddn93j)) and then that needs to be plugged into "CLK_A" for ports 1 and 2 and/or "CLK_2" for ports 3 and 4. There is a [wiring diagram](https://github.com/wiredopposite/OGXHUB/blob/main/Cables/OGXHUB%20Cable%20Diagram.pdf) in the Cables folder to help you make your own cables.
@@ -19,6 +22,3 @@ Lightguns have not been tested as I don't own any of the necessary hardware. I'v
 # Version 1.6 Xboxes
 
 Version 1.6 Xboxes have shorter controller port wires than other versions, they will need 2 cable extensions, both identical. The [wiring diagram](https://github.com/wiredopposite/OGXHUB/blob/main/Cables/OGXHUB%20Cable%20Diagram.pdf) for this extension can be found in the Cables folder.
-
-# Mounting the Hub
-The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
