@@ -14,7 +14,7 @@ If all you're doing is using a single Xbox 360 wireles PC adapter, you won't nee
 
 # Support for Lightguns
 
-Lightguns have not been tested as I don't own any of the necessary hardware. I've included headers for video sync lines on the hub so to test this, the Xbox motherboard to USB Micro B cables will need an additional 2 wires connected to a 2 pin wire housing ([SHR-02V-S-B](https://www.digikey.com/short/rdddn93j)) and then that needs to be plugged into "CLK_A" for ports 1 and 2 and/or "CLK_2" for ports 3 and 4. There is a [wiring diagram](https://github.com/wiredopposite/OGXHUB/blob/main/Cables/OGXHUB%20Cable%20Diagram.pdf) in the Cables folder to guide you through crimping your own cables.
+Lightguns have not been tested as I don't own any of the necessary hardware. I've included headers for video sync lines on the hub so to test this, the Xbox motherboard to USB Micro B cables will need an additional 2 wires connected to a 2 pin wire housing ([SHR-02V-S-B](https://www.digikey.com/short/rdddn93j)) and then that needs to be plugged into "CLK_A" for ports 1 and 2 and/or "CLK_2" for ports 3 and 4. There is a [wiring diagram](https://github.com/wiredopposite/OGXHUB/blob/main/Cables/OGXHUB%20Cable%20Diagram.pdf) in the Cables folder to help you make your own cables.
 
 # Version 1.6 Xboxes
 
