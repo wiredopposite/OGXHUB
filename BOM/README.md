@@ -15,4 +15,4 @@
 # X2USB BOM
 | Qty | Designator | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
 | --- | --- | --- | --- | --- | --- |
-| 1 | - | USB 2.0 Type A Surface Mount Female | AU-Y1006-2 (other options can fit this footprint) | https://www.digikey.com/short/jbnt3pb2 | https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-903-131A2031S10200_C42641.html |
+| 1 | - | USB 2.0 Type-A Surface Mount Female | AU-Y1006-2 (other options can fit this footprint) | https://www.digikey.com/short/jbnt3pb2 | https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-903-131A2031S10200_C42641.html |
