@@ -21,4 +21,4 @@ Lightguns have not been tested as I don't own any of the necessary hardware. I'v
 Version 1.6 Xboxes have shorter controller port wires than other versions, they will need 2 cable extensions, both identical. The [wiring diagram](https://github.com/wiredopposite/OGXHUB/blob/main/Cables/OGXHUB%20Cable%20Diagram.pdf) for this extension can be found in the Cables folder.
 
 # Mounting the Hub
-The hub is meant to be mounted on the RF shield, above the middle tab that hold the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
+The hub is meant to be mounted on the RF shield, above the middle tab that holds the Xbox's faceplate in place. You can do this with a piece of double sided tape, just make sure the back of the hub is insulated from the shield. 
