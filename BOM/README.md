@@ -11,3 +11,8 @@
 | 1 | U1 | SOP-16 USB HUB | SL2.1A | - | https://www.lcsc.com/product-detail/USB-ICs_CoreChips-SL2-1A_C192893.html |
 | 1 | U2 | SOT-583 Power Distribution Switch | TPS2116DRLR | https://mou.sr/3kZ73wz | https://www.lcsc.com/product-detail/Power-Distribution-Switches_Texas-Instruments-TPS2116DRLR_C3235557.html |
 | 1 | Y1 | CRYSTAL 12.0000MHZ SMD | J49SMH-F-G-G-K-12M0 (Example) | https://www.digikey.com/short/cj73h43j | https://www.lcsc.com/product-detail/Crystals_JGHC-49SBT12000181060_C390753.html |
+
+# X2USB BOM
+| Qty | Designator | Description | Value/Model | Digikey/Mouser URL | LCSC URL |
+| --- | --- | --- | --- | --- | --- |
+| 1 | - | USB 2.0 Type A Surface Mount Female | AU-Y1006-2 (other options can fit this footprint) | https://www.digikey.com/short/jbnt3pb2 | https://www.lcsc.com/product-detail/USB-Connectors_Jing-Extension-of-the-Electronic-Co-903-131A2031S10200_C42641.html |
