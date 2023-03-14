@@ -9,7 +9,7 @@
 | 2 | PORT_A,PORT_B | CONN HEADER R/A 12POS 2MM | S12B-PHDSS(LF)(SN) or DF11-12DP-2DS(24) | https://www.digikey.com/short/h3p7p53v | https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_JST-Sales-America-S12B-PHDSS-LF-SN_C161673.html |
 | 2 | R1,R2 | RES 10K OHM 5% 1/8W 0805 | RC0805JR-0710KL (Example) | https://www.digikey.com/short/jn5md3r4 | https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0805JR-0710KL_C100047.html |
 | 1 | U1 | SOP-16 USB HUB | SL2.1A | - | https://www.lcsc.com/product-detail/USB-ICs_CoreChips-SL2-1A_C192893.html |
-| 1 | U2 | SOT-583 Power Distribution Switch | TPS2116DRLR | https://mou.sr/3kZ73wz | https://www.lcsc.com/product-detail/Power-Distribution-Switches_Texas-Instruments-TPS2116DRLR_C3235557.html |
+| 1 | U2 | SOT-583 Power Distribution Switch | TPS2116DRLR | https://www.digikey.com/short/300r4wj2 | https://www.lcsc.com/product-detail/Power-Distribution-Switches_Texas-Instruments-TPS2116DRLR_C3235557.html |
 | 1 | Y1 | CRYSTAL 12.0000MHZ SMD | J49SMH-F-G-G-K-12M0 (Example) | https://www.digikey.com/short/cj73h43j | https://www.lcsc.com/product-detail/Crystals_JGHC-49SBT12000181060_C390753.html |
 
 # X2USB BOM
