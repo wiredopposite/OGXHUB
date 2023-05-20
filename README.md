@@ -24,4 +24,4 @@ Lightguns have not been tested as I don't own any of the necessary hardware. I'v
 
 # Limitations
 - The OGX360 firmware is not currently capable of recognizing controller peripherals, such as Xbox communicators or memory cards. Those devices will not work with the hub and neither will Xbox compatible USB flash drives.
-- The SL2.1A USB hub is not capable of supporting the 8bitdo V2 Bluetooth adapter (the V1 works fine with the latest firmware). I'll explore some other USB hub IC options in the future, but I anticipate that any that work with the V2 will be considerably more expensive than the SL2.1A since I've tested several other cheap Chinese hub IC options with the same results.
+- The SL2.1A USB hub is not capable of supporting the 8bitdo V2 Bluetooth adapter (the V1 works fine with the latest firmware). I'll explore some other USB hub IC options in the future, but I anticipate that any that work with the V2 will be considerably more expensive than the SL2.1A. I've tested several other cheap Chinese hub IC options with the same results.
