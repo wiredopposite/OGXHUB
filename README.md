@@ -1,3 +1,6 @@
+# Update - 1.10.23: New hub in the works
+After testing a whole bunch of hubs, including TI's TUSB2046 which is used on the Xbox v1.0's USB daughterboard (nope, that one doesn't work), I've finally found a 4 port USB 2.0 hub that works with the 8bitdo v2 adapter. The hub is very affordable and available in great supply, so I'll be posting a new design here very soon. The chip will require a 3.3V voltage regulator and some additional components, so I'll probably be switching to 0603 package caps/resistors and getting rid of the CLK breakout ports and power distribution IC in favor of just powering the hub from the Xbox.
+
 # OGXHUB
 ![OGXHUB PCB](https://github.com/wiredopposite/OGXHUB/blob/main/Pictures/ogxhub_1.2.jpg?raw=true)
 
